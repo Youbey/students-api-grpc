@@ -1,0 +1,17 @@
+{
+  "name": "td1",
+  "version": "1.0.0",
+  "description": "first td",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Youbey",
+  "license": "ISC",
+  "dependencies": {
+    "@grpc/grpc-js": "^1.13.2",
+    "@grpc/proto-loader": "^0.7.13",
+    "express": "^5.1.0",
+    "grpc-reflection-js": "^0.3.0"
+  }
+}
